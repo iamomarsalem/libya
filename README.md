@@ -3,7 +3,7 @@ print("[1] how old are you")
 
 print("[2] whats your name") 
 
-omar = input
+omar = input("akhtar")
 
 if omar in["1"]:
 
